@@ -2,6 +2,8 @@
 
 ## [Data Fusion Contest 2023](https://ods.ai/tracks/data-fusion-2023-competitions)
 
+В задаче требовалось защитить банковскую модель классификации, предсказывающая дефолт клиента, от Adversarial ML атак на входные данные.
+
 [Описание задачи](https://ods.ai/tracks/data-fusion-2023-competitions/competitions/data-fusion2023-defence)
 
 #### Описание решения
